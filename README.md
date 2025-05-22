@@ -1,7 +1,6 @@
 #🚗Sistema de Locadora de Veículos
 # Projeto em Desenvolvimento...
 ## 📌 Tecnologias Utilizadas
-- Java (Swing para interface gráfica)
 - MySQL (Banco de Dados)
 - JDBC (Para conexão com o banco)
 - NetBeans IDE
